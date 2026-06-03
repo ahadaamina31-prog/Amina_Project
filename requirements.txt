@@ -1,1 +1,5 @@
-ECHO is on.
+streamlit
+tensorflow
+numpy
+pillow
+streamlit-drawable-canvas
